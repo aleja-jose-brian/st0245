@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=Nodo(int)
+comment1.params=siguiente
+comment1.target=void\ setSiguiente(Nodo)
+numComments=2
