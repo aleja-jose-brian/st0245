@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ @param\ \ main\r\n
+comment1.params=cadena
+comment1.target=java.util.LinkedList\ RecibirString(java.lang.String)
+comment1.text=\r\n\ @param\ \ este\ metodo\ es\ una\ LinkendList\ <string>\r\n\ @see\ implementa\ un\ add\r\n
+comment2.params=a
+comment2.target=java.lang.String\ print(java.lang.String)
+comment2.text=\r\n\ @param\ \ este\ metodo\ resive\ String\ s\r\n\ @see\ implementa\ un\ get\ y\ un\ add\ \r\n
+numComments=3

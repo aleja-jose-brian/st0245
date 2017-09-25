@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=linked
+comment0.target=int\ multiplicacion(java.util.LinkedList)
+comment0.text=\r\n\ @param\ \ este\ metodo\ resive\ un\ LinkedList\ (linked)\r\n\ @see\ esta\ implementado\ un\ metodo\ size\ y\ un\ get\r\n
+comment1.params=linked\ data
+comment1.target=void\ SmartIncert(java.util.LinkedList,\ int)
+comment1.text=\r\n\ @param\ \ este\ metodo\ resive\ un\ LinkedList\ (linked)\ y\ un\ entero\ date\r\n\ @see\ implementa\ un\ get\ y\ un\ add\ \r\n
+comment2.params=linked
+comment2.target=int\ pivote(java.util.LinkedList)
+comment2.text=\r\n\ @param\ \ este\ metodo\ resive\ inkedList\ (linked)\r\n
+comment3.params=linked
+comment3.target=int[]\ suma(java.util.LinkedList)
+comment4.params=neveras\ solicitudes
+comment4.target=void\ ejercicio4(java.util.LinkedList,\ java.util.LinkedList)
+comment4.text=\r\n\ @param\ \ este\ metodo\ resive\ un\ Linkedlist\ (neveras)\ y\ Linkedlist\ (solicitudes)\r\n\ @see\ implementa\ un\ size,\ el\ metodo\ getNumero\ y\ getString\ \r\n
+comment5.params=a
+comment5.target=int\ getNumero(java.lang.String)
+comment6.params=a
+comment6.target=java.lang.String\ getString(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
