@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arbol()
+comment1.params=i\ j
+comment1.target=int\ max2(int,\ int)
+comment2.params=nodo
+comment2.target=int\ maxheightAUX(Nodo)
+comment3.params=
+comment3.target=int\ maxheight()
+comment4.params=nodo
+comment4.target=void\ recursivePrintAUX(Nodo)
+comment5.params=
+comment5.target=void\ recursivePrint()
+comment6.params=nodo
+comment6.target=void\ printOrdenAUX(Nodo)
+comment7.params=
+comment7.target=void\ printOrden()
+numComments=8
