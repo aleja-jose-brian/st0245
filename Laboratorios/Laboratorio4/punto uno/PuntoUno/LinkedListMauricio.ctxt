@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LinkedListMauricio
+comment1.params=
+comment1.target=LinkedListMauricio()
+comment2.params=index
+comment2.target=Node\ getNode(int)
+comment3.params=index
+comment3.target=int\ get(int)
+comment4.params=
+comment4.target=int\ size()
+comment5.params=data\ index
+comment5.target=void\ insert(int,\ int)
+comment6.params=index
+comment6.target=void\ remove(int)
+comment7.params=data
+comment7.target=boolean\ contains(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
