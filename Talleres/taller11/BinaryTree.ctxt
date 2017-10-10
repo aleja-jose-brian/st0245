@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nodo\ n
+comment0.target=boolean\ buscar(BinaryTree.Node,\ int)
+comment1.params=n
+comment1.target=boolean\ buscar(int)
+comment2.params=node\ n
+comment2.target=BinaryTree.Node\ Insertar(BinaryTree.Node,\ int)
+comment3.params=n
+comment3.target=void\ Insertar(int)
+comment4.params=nodu\ n
+comment4.target=BinaryTree.Node\ Borrar(BinaryTree.Node,\ int)
+comment5.params=n
+comment5.target=void\ Borrar(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
