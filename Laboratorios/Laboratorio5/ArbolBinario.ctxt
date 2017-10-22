@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ArbolBinario
+comment1.params=
+comment1.target=ArbolBinario()
+comment10.params=
+comment10.target=int\ tama\u00F1o()
+comment11.params=
+comment11.target=java.lang.String\ getGrandMothersName()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=i\ j
+comment2.target=int\ max2(int,\ int)
+comment3.params=nodo
+comment3.target=int\ maxheightAUX(Nodo)
+comment4.params=
+comment4.target=int\ maxheight()
+comment5.params=nodo
+comment5.target=void\ recursivePrintAUX(Nodo)
+comment6.params=
+comment6.target=void\ recursivePrint()
+comment7.params=name
+comment7.target=boolean\ buscar(java.lang.String)
+comment8.params=
+comment8.target=int\ altura()
+comment9.params=n
+comment9.target=int\ tama\u00F1oAux(int)
+numComments=13

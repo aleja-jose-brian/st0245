@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Codigo\ extraido\ de\:\r\n\ http\://algorithms.tutorialhorizon.com/binary-search-tree-complete-implementation/\r\n
+comment1.params=data
+comment1.target=Node(int)
+numComments=2
